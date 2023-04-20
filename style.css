@@ -1,0 +1,52 @@
+body {
+  background-color: gray;
+}
+
+.div1 {
+  padding-top: 200px;
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  font-size: 50px;
+  margin: 50px;
+  color: black;
+}
+
+.btn {
+  margin-top: 70px;
+  width: 200px;
+  height: 50px;
+  font-size: 25px;
+}
+
+.div2 {
+  margin-top: -50px;
+  margin-left: 510px;
+}
+
+input {
+  border-radius: 8px;
+  text-align: center;
+  margin-top: 70px;
+  width: 200px;
+  height: 50px;
+}
+
+.divx {
+  margin-top: 70px;
+  margin-left: 70px;
+  width: 150px;
+  height: 50px;
+}
+
+select {
+  border-radius: 8px;
+  width: 80px;
+  height: 50px;
+}
+
+option {
+  text-align: center;
+}/*# sourceMappingURL=style.css.map */
